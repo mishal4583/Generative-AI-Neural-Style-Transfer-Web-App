@@ -43,7 +43,7 @@ This project demonstrates **Neural Style Transfer (NST)** using TensorFlow Hub a
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/your-username/neural-style-transfer-app.git](https://github.com/your-username/neural-style-transfer-app.git)
+    git clone [https://github.com/mishal4583/Generative-AI-Neural-Style-Transfer-Web-App](https://github.com/mishal4583/Generative-AI-Neural-Style-Transfer-Web-App)
     cd neural-style-transfer-app
     ```
 
